@@ -13,13 +13,13 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/simple-ip-api.git
-   cd simple-ip-api```
+   git clone https://github.com/Shoqaratio/simple-ip-api.git
+   cd simple-ip-api
 
 2. Install dependencies:
   ```bash
-npm install```
+   npm install
 
 3. Run application:
   ```bash
-npm start```
+npm start
