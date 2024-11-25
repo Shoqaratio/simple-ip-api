@@ -9,6 +9,10 @@
 - **Simple and Fast**: Optimized for performance and ease of use.
 - **Scalable**: Designed to support future enhancements and additional functionality.
 
+## Routes
+- **JSON Route:** The JSON route is available at /api
+- **HTML Route:** The HTML route is available at /
+
 ## Installation
 
 1. Clone this repository:
