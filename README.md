@@ -21,4 +21,6 @@
    npm install
 3. Run application:
    ```bash
-   npm start
+   node main.js
+
+Now, the application is available at http://localhost:3000! Congrats
