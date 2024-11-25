@@ -17,9 +17,8 @@
    cd simple-ip-api
 
 2. Install dependencies:
-  ```bash
+   ```bash
    npm install
-
 3. Run application:
-  ```bash
-npm start
+   ```bash
+   npm start
