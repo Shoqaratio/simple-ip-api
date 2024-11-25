@@ -1,16 +1,17 @@
 {
   "dependencies": {
     "express": "^4.21.1",
-    "express-rate-limit": "^7.4.1"
+    "express-rate-limit": "^7.4.1",
+    "morgan": "^1.10.0"
   },
   "name": "api-ip",
   "version": "1.0.0",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {},
   "description": ""
 }
